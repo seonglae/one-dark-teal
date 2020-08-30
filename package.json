@@ -1,0 +1,22 @@
+{
+    "name": "one-dark-teal",
+    "displayName": "One Dark Teal",
+    "description": "One Dark with Teal Point",
+    "version": "0.0.1",
+    "publisher": "seonglae",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Teal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Teal-color-theme.json"
+            }
+        ]
+    }
+}
