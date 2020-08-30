@@ -2,8 +2,9 @@
     "name": "one-dark-teal",
     "displayName": "One Dark Teal",
     "description": "One Dark with Teal Point",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "seonglae",
+    "repository": "https://github.com/sungle3737/one-dark-teal",
     "engines": {
         "vscode": "^1.48.0"
     },
