@@ -4,7 +4,10 @@
     "description": "One Dark with Teal Point",
     "version": "1.0.0",
     "publisher": "seonglae",
-    "repository": "https://github.com/sungle3737/one-dark-teal",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sungle3737/one-dark-teal"
+    },
     "engines": {
         "vscode": "^1.48.0"
     },
