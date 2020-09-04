@@ -8,6 +8,7 @@
         "type": "git",
         "url": "https://github.com/sungle3737/one-dark-teal"
     },
+    "icon": "images/teal.png",
     "engines": {
         "vscode": "^1.48.0"
     },
