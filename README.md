@@ -1,6 +1,6 @@
 ### Optimized Language List
 - javascript
-- json - different color per depth
+- json - **different color per depth**
 - python
 - typescirpt (ing)
 - Go (planned)
