@@ -17,8 +17,8 @@ More smooth, Eye protecting color is this theme concept
 
 
 # Another extensions
-[terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter&utm_source=www.vsixhub.com)
+- [terminal intuiter](https://marketplace.visualstudio.com/items?itemName=seonglae.terminal-intuiter&utm_source=www.vsixhub.com)
 
 # Developer
-[page](https://seonglae.com)
-[github](https://github.com/sungle3737)
+- [page](https://seonglae.com)
+- [github](https://github.com/sungle3737)
