@@ -2,11 +2,11 @@
     "name": "one-dark-teal",
     "displayName": "One Dark Teal",
     "description": "One Dark with Teal Point",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "seonglae",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sungle3737/one-dark-teal"
+        "url": "https://github.com/seonglae/one-dark-teal"
     },
     "icon": "images/teal.png",
     "engines": {
