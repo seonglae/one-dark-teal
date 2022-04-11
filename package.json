@@ -10,7 +10,7 @@
     },
     "icon": "images/teal.png",
     "engines": {
-        "vscode": "^1.65.2"
+        "vscode": "^1.66.1"
     },
     "categories": [
         "Themes"
